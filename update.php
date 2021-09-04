@@ -2,7 +2,7 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"1.34",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/fram1025/fram1025/raw/master/update.zip" ,
+"Url":"https://github.com/Iceza1150/Iceza1150/raw/main/update.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (04/09/2021)
 ICEZAVPN
