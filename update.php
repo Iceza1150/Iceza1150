@@ -4,8 +4,9 @@
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/Iceza1150/Iceza1150/raw/main/update1.zip" ,
 "Changelog":"
-พบไฟล์ใหม่ (04/09/2021)
-ICEZAVPN
+พบไฟล์ใหม่ (07/09/2021)
+     ซิม TRUE
+☝☝จัดทำโดย @ICEZAVPN👌👌
 ",
  
  
