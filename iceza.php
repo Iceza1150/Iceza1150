@@ -2,7 +2,7 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"2.9",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/Iceza1150/Iceza1150/raw/main/iceza.zip" ,
+"Url":"https://github.com/Iceza1150/Iceza1150/raw/main/ppop.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (2020)
 รองรับ ซิม TRUE & DTAC
