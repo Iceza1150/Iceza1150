@@ -3,9 +3,9 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"1.36",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/itim-vpn/itim-vpn/raw/master/itim.zip" ,
+"Url":"https://github.com/Iceza1150/Iceza1150/raw/main/ICEZA.zip" ,
 "Changelog":"
-พบไฟล์ใหม่ (07/09/2021)
+พบไฟล์ใหม่ (2021)
      ซิม TRUE
 ☝☝จัดทำโดย @ICEZAVPN👌👌
 ",
