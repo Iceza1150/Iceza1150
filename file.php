@@ -4,22 +4,18 @@
 
 "Version":"1.23",
 
-//@fram
+//@Iceza
 
-"Url":"https://github.com/fram1025/fram1025/raw/master/fram.zip" ,
+"Url":"https://github.com/Iceza1150/Iceza1150/raw/main/file.zip" ,
 
 "Changelog":"
+-----------------------------
+พบไฟล์ใหม่ (23/10/2020)
+ใช้ส่วนตัว(ทดสอบการใช้งาน)
 
-💓พบไฟล์ใหม่ (23/10/2020)
-💓  TRUE-DTAC
-💓DTAC pro shopee
-💓DTAC pro โชเชียว
-💓TRUE pro LINE
-💓TRUE pro youtube
-💓มีthai VPS ใช้งานฟรี
-💓เน็ตดับติดต่อid:tri1025
-💓สนับสนุนวอเลท(20/B)เดือน
-💓   วอเลท 0849406074
+
+
+
                            👇
                              👇
                             กด👇
